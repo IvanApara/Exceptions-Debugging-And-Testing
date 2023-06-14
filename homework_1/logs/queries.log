@@ -1,0 +1,19 @@
+22:50:29.481 [main] INFO  Main - Ошибка ввода
+23:12:48.506 [main] INFO  Main - Ошибка ввода 2
+23:21:58.873 [main] INFO  Main - Ошибка ввода 2
+23:46:17.844 [main] INFO  Main - User addАпара Иван a@mail.ru +79602036363
+23:46:21.938 [main] INFO  Main - User requested a list
+23:46:33.156 [main] INFO  Main - User requested a list
+23:46:38.327 [main] INFO  Main - User requested a help
+23:46:52.031 [main] INFO  Main - User removeАпара Иван
+23:47:04.283 [main] INFO  Main - User entered the wrong command
+23:47:12.795 [main] INFO  Main - User entered the wrong command
+23:52:41.834 [main] INFO  Main - User add Апара Иван fg@mail.ru +79602036363
+23:52:44.427 [main] INFO  Main - User requested a list
+18:34:53.923 [main] INFO  Main - User entered the wrong command
+18:34:56.594 [main] INFO  Main - User entered the wrong command
+18:39:55.047 [main] INFO  Main - User entered the wrong command
+18:39:57.330 [main] INFO  Main - User entered the wrong command
+18:47:51.037 [main] INFO  Main - User add Апара Иван adas@mail.ru +79602036363
+18:47:51.168 [main] INFO  Main - User entered the wrong command
+18:47:57.829 [main] INFO  Main - User requested a list
